@@ -18,3 +18,4 @@ console.log(timestring("8128 seconds", 0).ms)
 // 8128000
 console.log(timestring("299792458 millis", 10).years)
 // 0.0095063565
+console.log(timestring("23 hrs 30 min", 3).hours)
